@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Net Worth](net-worth.md)
-* [Income](income.md)
+* [Income, CPF, and Taxes](income.md)
 * [Cash](cash.md)
 * [Expenses](expenses.md)
 * [Loans](loans.md)

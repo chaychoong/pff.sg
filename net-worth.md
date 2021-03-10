@@ -4,7 +4,7 @@ description: How much money do I have?
 
 # Net Worth
 
-Net Worth is a useful metric to measure one's financial health. People often use it for goal setting purposes \("100k NW by 30"\), but the process of calculation your net worth itself is a good introductory exercise in figuring out what you own. 
+Net Worth is a useful metric to measure one's financial health. People often use it for goal setting purposes \("$100k by 30"\), but the process of calculation your net worth itself is a good introductory exercise in **figuring out what you own**. 
 
 It is not uncommon to have negative net worth, especially upon graduation or after taking a housing loan etc.
 
@@ -16,23 +16,27 @@ $$
 
 ## Figuring out your Net Worth
 
+The easiest way to get started in your personal finance journey is to make a list of what you own. Don't be too obsessed with the tiny details; it is okay to leave out cash in your piggy bank or your Kopitiam card.
+
+Here is a non-exhaustive list of things that can contribute to your net worth calculation:
+
 ### Cash
 
-Find out how much money you have in the bank
+* Bank accounts
+* Cards with stored credits
+* Digital wallets
+* Piggy bank
 
 ### Assets
 
-#### Investments
-
-Find out the total net liquidation value of all your brokerage and CDP accounts
-
-#### CPF
-
-You may not be able to spend the money right now, but the money is still yours. Count that as an Asset.
+* Brokerage accounts
+* CDP account
+* CPF
+* Large assets: house, car, music instruments, etc. things with resale value
 
 ### Liabilities
 
-#### Loans
-
-Find out if you owe anyone money.
+* Bank loans
+* "Father-Mother-Scholarship" repayment
+* Outstanding credit card bills
 
